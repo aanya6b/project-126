@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    margin: 0;
+    font-size: 26px;
+    box-shadow: 35px 35px 35px lightskyblue;
+}
+
+.note
+{
+    font-size: 15px;
+    color: lightblue;
+}
+
+#songName
+{
+    margin-top: 65px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+}
+
+canvas
+{
+    border: 5px solid lavender;
+    border-radius: 25px;
+    box-shadow: 25px 25px 25px lightcyan;
+}
